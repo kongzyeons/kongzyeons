@@ -13,7 +13,19 @@
 
 -Dongtan camp 16th
 
+![342591](https://user-images.githubusercontent.com/80037547/117408682-7ae93580-af3a-11eb-8614-52104be69028.jpg)
 
+
+## Internship experience
+-Optic-Disc and Cup Segmentation
+
+-Have practiced problem solving skills
+
+## Hobby
+-Listen to music, play guitar
+
+## Work experience
+-Receive tutoring in high school mathematics
 
 
 
