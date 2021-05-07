@@ -2,7 +2,7 @@
 
 😄Hello my name is Suphanat Boonbundransuk, my nickanme is kong.
 
-🌱I attained a bachelor's degree after graduating from Kasetsart university
+🌱I attained a bachelor's degree after graduating from Kasetsart university.
 
 Now I'm interested working on data science.
 
