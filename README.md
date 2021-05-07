@@ -8,6 +8,12 @@
 
 ![11428077_1131490303543831_5529685286520261579_n](https://user-images.githubusercontent.com/80037547/117395345-f12d6e00-af21-11eb-9ea2-0c61f6235b2b.jpg)
 
+## Activities while studying
+-Engineering service camp 29th
+-Dongtan camp 16th
+
+
+
 <!--
 **kongzyeons/kongzyeons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
