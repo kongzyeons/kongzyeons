@@ -7,7 +7,7 @@
 ⚡I have studied industrial engineering at Kasetsart University for 4 years.
 I am interested in Artificial Intelligence, Machine Learning, and Data Science.Although, I will study industrial engineering,but I feel challenging with these of work.
 
-![11428077_1131490303543831_5529685286520261579_n](https://user-images.githubusercontent.com/80037547/117395345-f12d6e00-af21-11eb-9ea2-0c61f6235b2b.jpg)
+<!-- ![11428077_1131490303543831_5529685286520261579_n](https://user-images.githubusercontent.com/80037547/117395345-f12d6e00-af21-11eb-9ea2-0c61f6235b2b.jpg) -->
 
 
 
